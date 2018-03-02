@@ -9,3 +9,6 @@ layout: post
 
 But that's the problem with me. I sit here trying to be too much. Pushing myself to learn everything and I'm left learning a small amount of everything but not enough of anything. As the saying goes "Jack of all trades, Master of none". And what's worse is, I know what I'm doing is wrong but I have no intention to stop. I'm going to keep trying too hard, doing too many things. Mainly it's because I have ADD, I need to keep myself occupied all the time and with different things, untill I figure out how to make that an advantage for me, I guess I'll continue on as I am, an ambivalent human being.
 
+Signing off for now,  
+Soham
+
