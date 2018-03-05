@@ -5,7 +5,6 @@ date_published: 2013-12-11T12:38:37.000Z
 layout: post
 ---
 
-*Originally posted on 11/12/2013*
 
 I'm day 2 into my "I wanna be serious about coding" phase and so far, I haven't been that serious. I've actually been quite lazy and sleepy today. In the morning I went to dad's office to continue teaching him how to use the new inventory management system I had implemented to try and make his life easier. It has potential but right now, well its a long story. 
 
