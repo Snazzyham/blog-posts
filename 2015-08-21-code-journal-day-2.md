@@ -1,7 +1,7 @@
 ---
 title: Code Journal Day 2
 slug: code-journal-day-2
-date_published: 2015-08-21T12:38:37.000Z
+date_published: 2013-12-11T12:38:37.000Z
 layout: post
 ---
 
